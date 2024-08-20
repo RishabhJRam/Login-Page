@@ -1,0 +1,1 @@
+{'admin': '0000', 'rishi': '1234', 'Jagadish': '2004', 'Poo': '2010', 'dhannu': '3003', 'chiru': '8888', 'rithu': '0910', 'rashi': '9122', 'Guru': '0209', 'b raj': '2506', 'Radhika': '9844', 'RIZ': '1234', 'riz': '1234'}
